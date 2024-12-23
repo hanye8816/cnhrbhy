@@ -1,6 +1,6 @@
 {
   "lastVersionCode" : 251,  //最新版本的版本号
   "minimumRequiredVersion": 250, //如果当前版本号小于此版本，引导强制更新
-  "downloadUrl": "http://xingshijie.github.io/myapk/app-update-debug.apk",
+  "downloadUrl": "https://gitee.com/hanye8816/TrainSecurityMonitoring/raw/master/app/release/%E8%B7%AF%E5%8F%A3%E7%9B%91%E6%8E%A7_1.1.apk",
   "releaseNotes": "应用更新说明，需要弹框"
 }
